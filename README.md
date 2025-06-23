@@ -2,14 +2,14 @@
 
 A simple yet powerful Python program to generate QR codes from text, URLs, or other data.
 
-## Features
+## -Features
 
 - Generates QR codes from any text, URL, contact info, or WiFi credentials
 - Saves the QR code as a high-quality PNG image
 - Customizable output size and scaling
 - Lightweight and easy to integrate into other projects
 
-## Real-World Applications
+## -Real-World Applications
 
 This QR Code Generator can be used in various scenarios:
 
